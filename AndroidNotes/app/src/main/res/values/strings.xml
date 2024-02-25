@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Android notes</string>
+    <string name="title">Title</string>
+    <string name="notes">Notes</string>
+    <string name="file_name">notes.json</string>
+    <string name="last_updated_on">Last Updated on:</string>
+    <string name="chars"> characters</string>
+    <string name="about">About</string>
+    <string name="newFile">New</string>
+    <string name="savebtn">Save</string>
+    <string name="noNotes">Empty Notes are not saved</string>
+    <string name="noTitle">Notes with no title are not saved</string>
+    <string name="noDesc">Notes with no content are not saved</string>
+    <string name="sv_dialog_title">You have not saved your note.</string>
+    <string name="multi_node_app">Android notes</string>
+    <string name="developer">@ 2022 Indraneel Katta</string>
+    <string name="yearVersion">Version 1.0</string>
+</resources>

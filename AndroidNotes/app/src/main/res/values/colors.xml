@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07046A</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#4081ED</color>
+    <color name="app_bg">#121212</color>
+    <color name="et_bg">#E6E6E6</color>
+    <color name="vh_bg">#2421C8</color>
+    <color name="dark_subtitle">#888888</color>
+    <color name="Blue">#2421C8</color>
+</resources>
